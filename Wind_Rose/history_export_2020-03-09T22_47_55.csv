@@ -1,0 +1,28 @@
+LAT;40.4406;40.4406;40.4406;40.4406;40.4406;40.4406
+LON;-79.9959;-79.9959;-79.9959;-79.9959;-79.9959;-79.9959
+ASL;233.000;233.000;233.000;233.000;233.000;233.000
+CITY;Pittsburgh;Pittsburgh;Pittsburgh;Pittsburgh;Pittsburgh;Pittsburgh
+DOMAIN;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL;NEMSGLOBAL
+LEVEL;10 m above gnd;10 m above gnd;10 m above gnd;10 m above gnd;10 m above gnd;10 m above gnd
+NAME;0 to 5 mph;5 to 10 mph;10 to 15 mph;15 to 20 mph;20 to 25 mph;25 to 30 mph
+UNIT;h;h;h;h;h;h
+AGGREGATION;;;;;;
+UTC_OFFSET;0;0;0;0;0;0
+
+Winddirection;0 to 5 mph  [10 m above gnd];5 to 10 mph  [10 m above gnd];10 to 15 mph  [10 m above gnd];15 to 20 mph  [10 m above gnd];20 to 25 mph  [10 m above gnd];25 to 30 mph  [10 m above gnd]
+N;0.00;0.00;0.00;0.00;2.00;1.00
+NNE;0.00;0.00;0.00;0.00;0.00;0.00
+NE;0.00;0.00;0.00;0.00;0.00;0.00
+ENE;0.00;0.00;0.00;0.00;0.00;0.00
+E;2.00;0.00;0.00;0.00;0.00;0.00
+ESE;4.00;0.00;0.00;0.00;0.00;0.00
+SE;7.00;0.00;0.00;0.00;0.00;0.00
+SSE;4.00;6.00;0.00;0.00;0.00;0.00
+S;4.00;4.00;5.00;0.00;0.00;0.00
+SSW;4.00;17.00;8.00;5.00;2.00;0.00
+SW;3.00;10.00;14.00;9.00;2.00;2.00
+WSW;1.00;3.00;5.00;3.00;0.00;0.00
+W;2.00;7.00;6.00;8.00;0.00;0.00
+WNW;1.00;4.00;2.00;0.00;0.00;0.00
+NW;2.00;5.00;7.00;12.00;2.00;0.00
+NNW;0.00;0.00;0.00;3.00;1.00;3.00
