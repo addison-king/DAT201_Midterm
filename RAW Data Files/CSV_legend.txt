@@ -1,0 +1,3 @@
+Following URL explains the columns in the ECHO emissions violators CSV
+
+https://echo.epa.gov/help/facility-search/air-search-results-help#results
