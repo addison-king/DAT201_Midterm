@@ -17,4 +17,5 @@ For the mapping mini-project, you can give the presentation assuming you are tal
 1. Follow the bullets above and try and answer each bullet point.
 2. Describe the data you found and how it is to be read & interpreted.
 3. Come up with a paragraph'ish of thoughts to speak about.
-4. Conclusions??
+4. Write about your role and the work you did (not somuch for the presentaion, but for the grading).
+5. Conclusions??
