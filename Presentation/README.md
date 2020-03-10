@@ -6,6 +6,7 @@ For the mapping mini-project, you can give the presentation assuming you are tal
 
 * Five minutes or more of content. Try not to go over 10 minutes.
 * The question you set out to answer.
+	* Which neighborhood / area in Allegheny County has the most pollution?
 * A fully-baked map layout.
 * A high-level description of the steps you took.
 * A data-backed claim (or a set of claims) that address your question. Maybe they don't answer it fully, and that's OK, but ... if there is more question left after your analysis, tell us what else needs to be done. (This could turn into a project for future students, or could be something you come back to as part of your capstone project.)
