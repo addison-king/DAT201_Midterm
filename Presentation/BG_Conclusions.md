@@ -25,6 +25,8 @@
 10. Formatted the data callouts to read the location and the measure in ppb
 
 ### Printing the map:
+	Placed the Title using html to get it centered vertically and horizontally
+	Placed the data source
 	Wind Rose:
 		Using data from the past year, a wind rose was created from the average wind direction
 	Scale:
@@ -45,9 +47,11 @@
 	*	Formatted the data callouts to only show names for locations that are not in compliance 
 
 ### Printing the map:
-		Wind Rose:
-			Using data from the past year, a wind rose was created from the average wind direction
-		Scale:
-			15 mile bar split into 5 mile increments
-		Legend:
-			labels for the air emission plants and the Particulate 2.5mm buckets
+	Placed the Title using html to get it centered vertically and horizontally
+	Placed the data source
+	Wind Rose:
+		Using data from the past year, a wind rose was created from the average wind direction
+	Scale:
+		15 mile bar split into 5 mile increments
+	Legend:
+		labels for the air emission plants and the Particulate 2.5mm buckets
