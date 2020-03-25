@@ -1,0 +1,44 @@
+GitHub link:
+	https://github.com/brandyn-gilbert/DAT201_Midterm
+	
+Slack:
+	https://app.slack.com/client/TFM6ARZ0C/GUSG5CPE1
+
+Create a wind map in QGIS
+	https://digital-geography.com/how-to-create-a-wind-map-in-qgis/
+
+Wind rose sites
+	https://www.meteoblue.com/en/weather/archive/windrose/pittsburgh_united-states-of-america_5206379
+	https://wrcc.dri.edu/cgi-bin/wea_windrose.pl?laKAGC
+	https://mrcc.illinois.edu/CLIMATE/Hourly/WindRose.jsp
+	https://www.climate.gov/maps-data/dataset/wind-roses-charts-and-tabular-data
+	
+Allegheny County Air quality
+	https://data.wprdc.org/dataset/allegheny-county-air-quality
+	https://catalog.data.gov/dataset/allegheny-county-air-quality
+	
+Pollution Map
+	https://breatheproject.org/pollution-map/
+	
+EPA Search
+	https://edg.epa.gov/metadata/catalog/main/home.page
+	
+Allegheny County Particulate Matter - 2.5mm
+	https://data.wprdc.org/dataset/particulate-matter-2-5
+	
+QGIS - remove points outside polygon
+	https://gis.stackexchange.com/questions/71244/deleting-points-that-fall-outside-a-polygon
+	
+QGIS - custom contour maps
+	https://support.dronesmadeeasy.com/hc/en-us/articles/217759823-Using-QGIS-to-make-custom-Contour-Maps
+
+Topographic maps
+	https://www.mrlc.gov/data?f%5B0%5D=category%3Aland%20cover
+	https://viewer.nationalmap.gov/basic/
+	https://gisgeography.com/download-usgs-topo-maps-free/
+	https://ngmdb.usgs.gov/topoview/viewer/#10/40.3795/-79.8315
+	https://www.usgs.gov/core-science-systems/ngp/tnm-delivery/topographic-maps
+	
+Pittsburgh Data
+	http://www.pasda.psu.edu/
+	http://www.wprdc.org/
