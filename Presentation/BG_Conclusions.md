@@ -9,7 +9,7 @@
 
 
 
-## BG - My Workflow:
+# BG - My Workflow:
 ### How I created the SO2 map:
 
 1. Imported all PA counties on top of the open street maps
