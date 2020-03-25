@@ -26,6 +26,7 @@
 
 ### Printing the map:
 	Placed the Title using html to get it centered vertically and horizontally
+		<h4 style="line-height: 160px;">Allegheny County: Measure of SO<sub>2</sub> parts per billion</h4>
 	Placed the data source
 	Wind Rose:
 		Using data from the past year, a wind rose was created from the average wind direction
